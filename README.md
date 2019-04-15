@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # POI Service
 
@@ -18,3 +19,6 @@
 * [Integration Testing](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-2.1)
 * [Example - How to Debug .NET Core Xunit Tests](https://github.com/nickolasacosta/dotnetcore-xunit-debugging)
 * [Logging in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-2.1&tabs=aspnetcore2x)
+=======
+# api-trip
+>>>>>>> 2f47d36af982783fb10cb2c0800f1c667cef232f
